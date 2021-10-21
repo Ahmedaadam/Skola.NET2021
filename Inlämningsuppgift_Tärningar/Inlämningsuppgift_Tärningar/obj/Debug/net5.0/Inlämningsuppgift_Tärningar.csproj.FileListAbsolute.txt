@@ -1,0 +1,16 @@
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\bin\Debug\net5.0\Inlämningsuppgift_Tärningar.exe
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\bin\Debug\net5.0\Inlämningsuppgift_Tärningar.deps.json
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\bin\Debug\net5.0\Inlämningsuppgift_Tärningar.runtimeconfig.json
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\bin\Debug\net5.0\Inlämningsuppgift_Tärningar.runtimeconfig.dev.json
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\bin\Debug\net5.0\Inlämningsuppgift_Tärningar.dll
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\bin\Debug\net5.0\ref\Inlämningsuppgift_Tärningar.dll
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\bin\Debug\net5.0\Inlämningsuppgift_Tärningar.pdb
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\obj\Debug\net5.0\Inlämningsuppgift_Tärningar.csproj.AssemblyReference.cache
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\obj\Debug\net5.0\Inlämningsuppgift_Tärningar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\obj\Debug\net5.0\Inlämningsuppgift_Tärningar.AssemblyInfoInputs.cache
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\obj\Debug\net5.0\Inlämningsuppgift_Tärningar.AssemblyInfo.cs
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\obj\Debug\net5.0\Inlämningsuppgift_Tärningar.csproj.CoreCompileInputs.cache
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\obj\Debug\net5.0\Inlämningsuppgift_Tärningar.dll
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\obj\Debug\net5.0\ref\Inlämningsuppgift_Tärningar.dll
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\obj\Debug\net5.0\Inlämningsuppgift_Tärningar.pdb
+C:\Users\96ahmada\source\repos\Inlämningsuppgift_Tärningar\Inlämningsuppgift_Tärningar\obj\Debug\net5.0\Inlämningsuppgift_Tärningar.genruntimeconfig.cache
