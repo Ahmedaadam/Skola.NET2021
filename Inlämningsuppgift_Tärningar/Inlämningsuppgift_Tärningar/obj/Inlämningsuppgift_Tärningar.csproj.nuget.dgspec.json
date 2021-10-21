@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\96ahmada\\source\\repos\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar.csproj": {}
+    "C:\\Users\\96ahmada\\Desktop\\Skola.NET2021\\Ahmedaadam\\Skola.NET2021\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\96ahmada\\source\\repos\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar.csproj": {
+    "C:\\Users\\96ahmada\\Desktop\\Skola.NET2021\\Ahmedaadam\\Skola.NET2021\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\96ahmada\\source\\repos\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar.csproj",
+        "projectUniqueName": "C:\\Users\\96ahmada\\Desktop\\Skola.NET2021\\Ahmedaadam\\Skola.NET2021\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar.csproj",
         "projectName": "Inlämningsuppgift_Tärningar",
-        "projectPath": "C:\\Users\\96ahmada\\source\\repos\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar.csproj",
+        "projectPath": "C:\\Users\\96ahmada\\Desktop\\Skola.NET2021\\Ahmedaadam\\Skola.NET2021\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar.csproj",
         "packagesPath": "C:\\Users\\96ahmada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\96ahmada\\source\\repos\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar\\obj\\",
+        "outputPath": "C:\\Users\\96ahmada\\Desktop\\Skola.NET2021\\Ahmedaadam\\Skola.NET2021\\Inlämningsuppgift_Tärningar\\Inlämningsuppgift_Tärningar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\96ahmada\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
