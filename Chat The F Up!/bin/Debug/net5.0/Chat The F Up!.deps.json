@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Chat The F Up!/1.0.0": {
+        "runtime": {
+          "Chat The F Up!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chat The F Up!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
