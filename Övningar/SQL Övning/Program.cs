@@ -8,8 +8,6 @@ namespace SQL_Övning
     {
         static void Main(string[] args)
         {
-            //var conString = string.Format(Databas.ConnectionString, Databas.DatabaseName);
-            //Console.WriteLine(conString);
             var ConnectionString = string.Format(Databas.ConnectionString, Databas.DatabaseName); // Databas.ConnectionString;
 
             using (var cnn = new SqlConnection(ConnectionString))
