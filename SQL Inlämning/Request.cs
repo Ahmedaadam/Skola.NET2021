@@ -107,7 +107,30 @@ namespace SQL_Inlämning
 
         public static void GetMostCommonCountry()
         {
+            Console.WriteLine("Whats the most common country in this database?");
+            var input = Console.ReadLine();
 
+            var database = new Database();
+
+            var response2 = database.GetDataTable("SELECT top 1 country, count(id) AS users " +
+                "FROM[master].[dbo].[MOCK_DATA] " +
+                "GROUP BY country " +
+                "order by count(id) desc");
+
+            if (response2 != null)
+            {
+                if (response2.Rows.Count > 0)
+                {
+                    foreach (DataRow row in response2.Rows)
+                    {
+                        Console.WriteLine($"Its {row["country"]} with {row["users"]} many users");
+                    }
+                }
+
+            }
+            Console.WriteLine("For next question press enter :)");
+            Console.ReadLine();
+            Console.Clear();
         }
     }
 
