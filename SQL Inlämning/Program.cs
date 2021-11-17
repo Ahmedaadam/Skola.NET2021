@@ -16,6 +16,10 @@ namespace SQL_Inlämning
             Request.GetFromTheNorthAndScandinavia();
             // Whats the most common country in this database?
             Request.GetMostCommonCountry();
+            // List the top 10 users whose name starts with L
+            Request.GetTopTenUsers();
+            // List all the users whose firstname and lastname starts with same letter
+            Request.GetUserWithSameLetter();
         }
 
        
