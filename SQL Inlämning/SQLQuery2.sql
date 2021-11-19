@@ -23,7 +23,7 @@
   --from [master].[dbo].[MOCK_DATA]
   --group by country 
   --having count(*) > 1
-  SELECT top 1 country, count(id) AS users
- FROM [master].[dbo].[MOCK_DATA]
- GROUP BY country
- order by count(id) desc
+SELECT first_name, last_name
+FROM [master].[dbo].[MOCK_DATA]
+WHERE LEFT(first_name,1) = LEFT(last_name,1) AND first_name <> last_name
+ 

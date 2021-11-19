@@ -30,7 +30,7 @@ namespace SQL_Inlämning
                 {
                     foreach (DataRow row in response.Rows)
                     {
-                        Console.WriteLine($"There is: {row["NumberOfCountries"]} countries represented.");
+                        Console.WriteLine($"There is {row["NumberOfCountries"]} countries represented.");
                         Console.ReadKey();
                     }
                 }
@@ -93,8 +93,7 @@ namespace SQL_Inlämning
                 "as The_North_And_Scandinavia " +
                 "from[master].[dbo].[MOCK_DATA] " +
                 " where country in ('Sweden', 'Denmark', 'Norway', " +
-                "'Finland', 'Iceland') " +
-                "having count(*) > 0");
+                "'Finland', 'Iceland',) ");
 
             if (response != null)
             {
@@ -150,10 +149,9 @@ namespace SQL_Inlämning
 
             var database = new Database();
 
-            var response = database.GetDataTable("SELECT top 1 country, count(id) AS users " +
-                "FROM[master].[dbo].[MOCK_DATA] " +
-                "GROUP BY country " +
-                "order by count(id) desc");
+            var response = database.GetDataTable("SELEcT top 10 * " +
+                "from[master].[dbo].[MOCK_DATA] " +
+                "where last_name LIKE 'L%'");
 
             if (response != null)
             {
@@ -161,8 +159,8 @@ namespace SQL_Inlämning
                 {
                     foreach (DataRow row in response.Rows)
                     {
-                        Console.WriteLine($"Its {row["country"]} with {row["users"]} many users");
-                        Console.ReadKey();
+                        Console.WriteLine($"{row["first_name"]} {row["last_name"]} " +
+                            $"from {row["country"]}");
                     }
                 }
 
@@ -191,7 +189,6 @@ namespace SQL_Inlämning
                     foreach (DataRow row in response.Rows)
                     {
                         Console.WriteLine($"{row["first_name"]} {row["last_name"]}");
-                        Console.ReadKey();
                     }
                 }
 
