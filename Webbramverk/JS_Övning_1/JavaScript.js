@@ -1,12 +1,7 @@
-console.log('Hello world');
-let x = 5
-var y = 10
-
-function magic(){
-    let x = 10
-    y = 20
-}
-
-magic()
-
-console.log(x, y);
+let x, y, z;
+x = 10;
+y = 5;
+z = 15;
+console.log(x, y, z);
+z = x++;
+console.log(z, x);
